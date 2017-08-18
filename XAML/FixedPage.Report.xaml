@@ -1,0 +1,9 @@
+<FixedPage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <Border Brush>
+        <Border.Child>
+            <Grid>
+                
+            </Grid>
+        </Border.Child>
+    </Border>
+</FixedPage>
