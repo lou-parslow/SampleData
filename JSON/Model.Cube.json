@@ -1,0 +1,10 @@
+{
+  "cube0" :
+  {
+  "Type" : "Cube"
+  }
+  "sunlight" :
+  {
+    "Type" : "Sunlight"
+    }
+}
