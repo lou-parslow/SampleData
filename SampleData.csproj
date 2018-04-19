@@ -51,6 +51,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Page Include="XAML\Canvas\Lines.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="XAML\FixedPage.Report.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
